@@ -8,7 +8,7 @@ When you configure CodeGPT as a provider, you can use the `/StackOverflow` tool 
 
 1. **Search**: Perform an immediate search on Stack Overflow related to your question.
 2. **Summarize**: CodeGPT will read the posts and generate a concise summary.
-3. **Respond**: Combine the gathered information to provide a comprehensive answer to your question. 
+3. **Respond**: Combine the gathered information to comprehensively answer your question. 
 
 ## How to Use:
 
