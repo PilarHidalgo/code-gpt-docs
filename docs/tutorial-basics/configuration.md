@@ -14,11 +14,11 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 
 - `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
 - `AI Agents Marketplace`: Peruse viable agents in the Marketplace and interact with them. Ensure you choose `CodeGPT Plus` as your provider and establish the mandatory connection. You also have the option to explore directly from the Home `⌂` button.
-- `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions.
+- `Autocomplete`: Enhance your coding experience with intelligent code completion suggestions.
 
 ### Experimental 
 
-This section showcases experimental features 🧪 that are in the development phase
+This section showcases experimental features that are in the development phase.
 
 - `React Sandbox`: Experiment with React components through interaction or image upload.
 
@@ -26,7 +26,7 @@ This section showcases experimental features 🧪 that are in the development ph
 ### Help
 Look here when you need help.
 
-- `Extension Docs`: The document that you are reading righ now.
+- `Extension Docs`: The document you are reading right now.
 - `API Docs`: 📝 Access the API documentation for CodeGPT.
 - `Report an issue`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
 - `Feedback`: Send 💌 feedback to the team to help us improve the product. 
