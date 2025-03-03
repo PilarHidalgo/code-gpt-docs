@@ -74,7 +74,7 @@ These optional configurations enhance your user experience.
   <table>
     <tr>
       <td align="center">
-        <img width="250" height="150" src="https://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
+        <img width="250" height="150" src="http://github.com/user-attachments/assets/0f562594-1023-44ce-beed-f2d5d9321fff" />
       </td>
       <td align="center">
         <img width="250" height="150" src="https://github.com/user-attachments/assets/a4230449-9148-44cb-b784-ed2835b519da" />
